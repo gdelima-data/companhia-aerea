@@ -11,11 +11,8 @@ Pandas, Seaborn, Scikit-learn: Manipulação, gráficos e modelo preditivo.
 # 🔍 Etapas do Projeto  
 1. Pré-processamento e Análise Exploratória  
   Limpeza de dados: tratamento de valores nulos, categorização da satisfação e análise de outliers.  
-
   Agrupamento de variáveis: notas de serviços e características dos clientes.  
-
   Cálculo de correlações para identificar variáveis mais relevantes.  
-
   Testes estatísticos para verificar diferenças entre grupos (gênero, tipo de cliente, classe, etc).  
 
 2. Machine Learning  

@@ -41,7 +41,7 @@ O embarque online é o fator com maior impacto na satisfação.
 
 Clientes da classe executiva e que viajam a negócios tendem a estar mais satisfeitos.  
 
-Clientes leais são, em média, significativamente mais satisfeitos do que clientes desleais.  
+Clientes leais são, em média, mais satisfeitos do que clientes desleais.  
 
 A nota média geral foi de 3,24 em uma escala de 0 a 5.  
 

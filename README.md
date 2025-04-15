@@ -23,7 +23,7 @@ Pandas, Seaborn, Scikit-learn: Manipulação, gráficos e modelo preditivo.
 
     Divisão dos dados com estratificação (80% treino, 20% teste).  
 
-    Resultado: Acurácia de 92% na predição de satisfação dos clientes.  
+    Resultado: Acurácia de 91% na predição de satisfação dos clientes.  
 
     Extração da importância das variáveis a partir do modelo.  
 

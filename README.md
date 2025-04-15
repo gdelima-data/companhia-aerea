@@ -10,31 +10,31 @@ Pandas, Seaborn, Scikit-learn: Manipulação, gráficos e modelo preditivo.
 
 # 🔍 Etapas do Projeto  
 1. Pré-processamento e Análise Exploratória  
-Limpeza de dados: tratamento de valores nulos, categorização da satisfação e análise de outliers.  
+  Limpeza de dados: tratamento de valores nulos, categorização da satisfação e análise de outliers.  
 
-Agrupamento de variáveis: notas de serviços e características dos clientes.  
+  Agrupamento de variáveis: notas de serviços e características dos clientes.  
 
-Cálculo de correlações para identificar variáveis mais relevantes.  
+  Cálculo de correlações para identificar variáveis mais relevantes.  
 
-Testes estatísticos para verificar diferenças entre grupos (gênero, tipo de cliente, classe, etc).  
+  Testes estatísticos para verificar diferenças entre grupos (gênero, tipo de cliente, classe, etc).  
 
 2. Machine Learning  
-Modelo treinado: Random Forest Classifier  
+  Modelo treinado: Random Forest Classifier  
 
-Divisão dos dados com estratificação (80% treino, 20% teste).  
+  Divisão dos dados com estratificação (80% treino, 20% teste).  
 
-Resultado: Acurácia de 92% na predição de satisfação dos clientes.  
+  Resultado: Acurácia de 92% na predição de satisfação dos clientes.  
 
-Extração da importância das variáveis a partir do modelo.  
+  Extração da importância das variáveis a partir do modelo.  
 
 3. Dashboard no Power BI  
-KPIs principais: total de clientes, satisfeitos, insatisfeitos e nota média.  
+  KPIs principais: total de clientes, satisfeitos, insatisfeitos e nota média.  
 
-Gráfico com fatores que mais influenciam na satisfação (segundo o modelo).  
+  Gráfico com fatores que mais influenciam na satisfação (segundo o modelo).  
 
-Proporção de satisfação por classe, tipo de viagem e tipo de cliente.  
+  Proporção de satisfação por classe, tipo de viagem e tipo de cliente.  
 
-Notas médias por serviço e proporções claras com cores distintas.  
+  Notas médias por serviço e proporções claras com cores distintas.  
 
 # 📌 Principais Insights  
 O embarque online é o fator com maior impacto na satisfação.  

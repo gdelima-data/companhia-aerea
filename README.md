@@ -55,6 +55,7 @@ dataset.csv: Conjunto de dados original (Kaggle).
 README.md: Este arquivo.  
 
 # 📷 Captura do Dashboard  
-
+![Dashboard](dashboard/dashboard_foto.png)
 # 📚 Fonte dos Dados  
 Airline Passenger Satisfaction - Kaggle  
+https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction

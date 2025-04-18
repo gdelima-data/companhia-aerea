@@ -50,7 +50,7 @@ A nota média geral foi de 3,24 em uma escala de 0 a 5.
 # 📁 Arquivos  
 analise_satisfaction.ipynb: Notebook com toda a análise e modelo de machine learning.  
 
-dashboard.pbix: Arquivo do Power BI com o dashboard interativo.  
+dashboard.pbib: Arquivo do Power BI com o dashboard interativo.  
 
 dataset.csv: Conjunto de dados original (Kaggle).  
 

@@ -1,0 +1,28 @@
+CREATE TABLE "satisfacao_clientes" (
+"Unnamed: 0" INTEGER,
+  "id" INTEGER,
+  "Gender" TEXT,
+  "Customer Type" TEXT,
+  "Age" INTEGER,
+  "Type of Travel" TEXT,
+  "Class" TEXT,
+  "Flight Distance" INTEGER,
+  "Inflight wifi service" INTEGER,
+  "Departure/Arrival time convenient" INTEGER,
+  "Ease of Online booking" INTEGER,
+  "Gate location" INTEGER,
+  "Food and drink" INTEGER,
+  "Online boarding" INTEGER,
+  "Seat comfort" INTEGER,
+  "Inflight entertainment" INTEGER,
+  "On-board service" INTEGER,
+  "Leg room service" INTEGER,
+  "Baggage handling" INTEGER,
+  "Checkin service" INTEGER,
+  "Inflight service" INTEGER,
+  "Cleanliness" INTEGER,
+  "Departure Delay in Minutes" INTEGER,
+  "Arrival Delay in Minutes" REAL,
+  "satisfaction" TEXT
+);
+

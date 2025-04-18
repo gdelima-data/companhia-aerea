@@ -6,6 +6,8 @@ Python (Jupyter Notebook): Limpeza, EDA e Machine Learning.
 
 Power BI: Construção do dashboard final com visualizações interativas.  
 
+SQLite: Banco de dados  
+
 Pandas, Seaborn, Scikit-learn: Manipulação, gráficos e modelo preditivo.  
 
 # 🔍 Etapas do Projeto  
@@ -46,11 +48,15 @@ Clientes leais são, em média, mais satisfeitos do que clientes desleais.
 A nota média geral foi de 3,24 em uma escala de 0 a 5.  
 
 # 📁 Arquivos  
-analise_satisfacao.ipynb: Notebook com toda a análise e modelo de machine learning.  
+analise_satisfaction.ipynb: Notebook com toda a análise e modelo de machine learning.  
 
 dashboard.pbix: Arquivo do Power BI com o dashboard interativo.  
 
 dataset.csv: Conjunto de dados original (Kaggle).  
+
+airline_satisfaction.db: Banco de dados  
+
+shema.sql: Esquema do banco de dados  
 
 README.md: Este arquivo.  
 

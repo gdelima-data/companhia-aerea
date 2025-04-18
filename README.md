@@ -56,7 +56,7 @@ dataset.csv: Conjunto de dados original (Kaggle).
 
 airline_satisfaction.db: Banco de dados  
 
-shema.sql: Esquema do banco de dados  
+schema.sql: Esquema do banco de dados  
 
 README.md: Este arquivo.  
 
